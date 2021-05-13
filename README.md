@@ -1,6 +1,6 @@
 Hi there!
 
-I was writing JavaScripts before it was cool. I used (and teached) Node.js before it reached v1.0. Now working on growth & monetization experiments in full-stack at @prezi.
+I was writing JavaScripts before it was cool. I used (and teached) Node.js before it reached v1.0. Now working on growth & monetization experiments in full-stack at [Prezi](https://prezi.com).
 
 Recently started to contribute to [Deno](https://deno.land), especially improving the compatibility layer with Node.js.
 
