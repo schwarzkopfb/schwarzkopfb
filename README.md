@@ -6,4 +6,6 @@ Recently started to [contribute](https://github.com/denoland/deno/pulls?q=is%3Ap
 
 Currently I'm working on making AI videos real easy in full-stack as a Senior Software Engineer at [Colossyan](https://www.colossyan.com/).
 
+In my free time I'm experimenting with [AI art](https://foundation.app/collection/botu) and electronic music.
+
 Throughout the years I was experiencing with a lot of languages, technologies and frameworks. For example I wrote an Apple Core Graphics like [framework](/nannys) for a tiny microcontroller. And a [firmware](/wiframe) for a WiFi-connected, cloud powered, e-ink display.
