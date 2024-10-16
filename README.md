@@ -4,7 +4,7 @@ I beginned making software as a teenager with [BASIC](https://en.wikipedia.org/w
 
 Recently started to [contribute](https://github.com/denoland/deno/pulls?q=is%3Apr+author%3Aschwarzkopfb+is%3Aclosed) to [Deno](https://deno.land) and [it's standard library](https://github.com/denoland/deno_std/pulls?q=is%3Apr+author%3Aschwarzkopfb+is%3Aclosed), especially improving the compatibility layer with Node.js.
 
-Currently I'm working on making AI videos real easy in full-stack as a Senior Software Engineer at [Colossyan](https://www.colossyan.com/).
+Currently I'm exploring the amazing field of 3d-printing at [Formlabs](https://formlabs.com) as a Senior Software Engineer.
 
 In my free time I'm experimenting with [AI art](https://foundation.app/collection/botu) and electronic music.
 
